@@ -203,7 +203,7 @@ A empresa utiliza canais digitais para atendimento e divulgação, incluindo:
 Ao produzir qualquer conteúdo sobre a FocoDrive, considere que a empresa:
 
 * Atua exclusivamente com locação de veículos;
-* Está localizada na Grande Florianópolis;
+* Está localizada em Florianópolis - Norte;
 * Prioriza rapidez e pouca burocracia;
 * Possui análise cadastral facilitada;
 * Trabalha com veículos econômicos e acessíveis;
